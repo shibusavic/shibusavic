@@ -1,6 +1,6 @@
 # ShibusaVic
 
-Hi, my name is Victor, or Vic if you prefer and this is my profile for my **Shibusa, LLC** repository.
+Hi, my name is Victor, or Vic if you prefer, and this is my profile for my **Shibusa, LLC** repository.
 
 "Shibusa" is a derivative of [Shibui](https://en.wikipedia.org/wiki/Shibui), a reference to "simple, subtle, and unobtrusive beauty." Shibusa, LLC is a company registered in the State of Iowa. No web site yet - it's a low priority right now.
 
@@ -15,4 +15,5 @@ My [SqlExplorer](https://github.com/shibusavic/SqlExplorer) repo contains a CLI 
 That's all for now.
 
 Vic
+
 Founder, Shibusa LLC
