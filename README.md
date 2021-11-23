@@ -14,7 +14,7 @@ I’m currently working on a project revolving around the quantification of stoc
 
 --------
 
-That's all for now.
+That's all for now. Be well.
 
 Vic
 
