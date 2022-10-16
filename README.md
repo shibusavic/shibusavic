@@ -1,21 +1,13 @@
 # ShibusaVic
 
-Hi, my name is Victor, or Vic if you prefer, and this is my profile for my **Shibusa, LLC** repository.
+"Shibusa" is a derivative of [Shibui](https://en.wikipedia.org/wiki/Shibui), a reference to "simple, subtle, and unobtrusive beauty."
 
-"Shibusa" is a derivative of [Shibui](https://en.wikipedia.org/wiki/Shibui), a reference to "simple, subtle, and unobtrusive beauty." Shibusa, LLC is a company registered in the State of Iowa. No web site yet - it's a low priority right now.
+The [shibusa-common](https://github.com/shibusavic/shibusa-common), [SqlExplorer](https://github.com/shibusavic/SqlExplorer), and [shibusa-devtools](https://github.com/shibusavic/shibusa-devtools) repos contain collections of C# utilities I've built more than once in my career. In general, these tools are designed to make my life easier. You might discover something interesting: recursive text transformations, useful extensions, US Calendar date calculations, or a tool for parsing a database schema and telling you in what order tables need to be deleted. Contributions are welcome; pilfer as necessary.
 
-The [shibusa-common](https://github.com/shibusavic/shibusa-common) repo contains a variety of functions and utilities that I've built repeatedly over the years. Every iteration makes them better. You will find a handful of useful tools in there, including text transformations and common math solutions.
-
-The [SqlExplorer](https://github.com/shibusavic/SqlExplorer) repo contains a CLI utility that reads an MS SQL Server database and extracts out the schema into CSV files.
-
-The [Markdown-TOC](https://github.com/shibusavic/Markdown-TOC) repo contains a CLI utility that can create a Table of Contents (TOC) of internal links within a markdown file or create a TOC file that contains external links within a specified directory.
-
-I’m currently working on a project revolving around the quantification of stock market psychology. It's called _Kyna_, and it's in a private repository.
+I am currently working on [an SDK for eodhistoricaldata.com](https://github.com/shibusavic/EodHistoricalDataCSharpSdk). Work has been slower than I would have liked because my day job has been demanding lately. But, I hope to have the project wrapped up soon - it's a small part of a bigger project I've been working on since February 2020 - more on that later - maybe.
 
 --------
 
-That's all for now. Be well.
+Be well.
 
 Vic
-
-Founder, Shibusa LLC
